@@ -7,3 +7,5 @@ Clone repo
 Run npm install
 Build database from schema.sql and seeds_<15 or 100>.sql
 At command prompt run node bamazonCustomer.js
+
+https://github.com/jasonmuldoon/Bamazon/blob/master/images/bama.gif
